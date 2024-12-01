@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n+PzqONtxFc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nelly\\Desktop\\New folder (17)\\Cms20LinqOchAnnat\\LinqExercises01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nelly\\.nuget\\packages\\csvhelper\\15.0.6\\csvhelper.15.0.6.nupkg.sha512",
+    "C:\\Users\\nelly\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
